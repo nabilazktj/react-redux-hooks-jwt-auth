@@ -1,4 +1,4 @@
-## Food Application using React redux and hooks (for Spring Boot Backend)
+## Food Management Application using React Redux and Hooks (for Spring Boot Backend)
 
 ### Set port
 .env
